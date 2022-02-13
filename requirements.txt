@@ -1,5 +1,7 @@
 notebook 
 numpy  
 pandas 
- matplotlib
+matplotlib
+tensorflow 
+
  
